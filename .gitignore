@@ -1,0 +1,62 @@
+node_modules
+
+# Output
+.output
+.vercel
+.netlify
+.wrangler
+/.svelte-kit
+/build
+
+
+# Tauri build artifacts
+src-tauri/target/
+src-tauri/gen/
+
+# Tauri updater files
+src-tauri/latest.json
+src-tauri/myapp.key
+src-tauri/myapp.key.pub
+
+# Shell scripts in root
+/*.sh
+
+# PowerShell scripts
+*.ps1
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Test files
+test-*.html
+
+# Playwright test artifacts
+playwright-report/
+test-results/
+
+# Dev Assistance Tools
+# Exclude all .md files except specific project documentation
+*.md
+!CHANGELOG.md
+!README.md
+!README.test.md
+!SECURITY.md
+!CODE_OF_CONDUCT.md
+!CONTRIBUTING.md
+!URL_LOADING_FEATURE.md
+!docs/SEARCH_FEATURE.md
+!todo.md

@@ -1,0 +1,186 @@
+{
+  "app": {
+    "name": "LeedPDF",
+    "tagline": "Free PDF Annotation Tool",
+    "title": "LeedPDF — Draw and Annotate on PDFs"
+  },
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "help": "Help",
+    "use_cases": "Use Cases",
+    "downloads": "Downloads",
+    "privacy": "Privacy",
+    "search": "PDF Search"
+  },
+  "home": {
+    "hero_title": "LeedPDF — Free PDF Annotation Tool",
+    "choose_file": "Choose PDF or MD",
+    "open_url": "Open from URL",
+    "start_fresh": "Start Fresh",
+    "browse_templates": "Browse Templates",
+    "search_pdfs": "Search PDFs",
+    "ext_install": "Install LeedPDF Extension for Chrome",
+    "ext_autopen": "Auto-open any PDF you find online in LeedPDF"
+  },
+  "toolbar": {
+    "home": "Go to homepage",
+    "upload": "Upload PDF",
+    "prev_page": "Previous page",
+    "next_page": "Next page",
+    "zoom_out": "Zoom out",
+    "zoom_in": "Zoom in",
+    "reset_zoom": "Reset zoom",
+    "reset": "Reset",
+    "fit_width": "Fit to width",
+    "fit_width_short": "Fit W",
+    "fit_height": "Fit to height",
+    "fit_height_short": "Fit H",
+    "confirm_delete_all": "Delete all drawings on this page? This can't be undone.", 
+    "hand": "Pan / Hand",
+    "pencil": "Pencil (1)",
+    "eraser": "Eraser (2)",
+    "text": "Text (3)",
+    "arrow": "Arrow (4)",
+    "highlighter": "Highlighter (8)",
+    "sticky_note": "Sticky Note (9)",
+    "stamps": "Stamps/Stickers",
+    "thumbnails": "Page Thumbnails (T)",
+
+    "color": "Drawing color",
+    "choose_color": "Choose drawing color",
+    "select_color": "Select color",
+    "brush_size": "Brush size",
+    "choose_line_thickness": "Choose line thickness",
+    "line_width": "Line width",
+    "eraser_size": "Eraser size",
+    "choose_eraser_size": "Choose eraser size",
+    "eraser_size_with": "Eraser size",
+
+    "search": "Search PDF documents",
+    "delete_all": "Delete all changes",
+    "export_pdf": "Export annotated PDF",
+    "toggle_theme": "Toggle light/dark mode",
+    "current_tool": "Current Tool",
+    "open_other_file": "Open other file",
+    "light_mode": "Light mode",
+    "dark_mode": "Dark mode",
+    "view_github": "View on GitHub"
+  },
+  "overlays": {
+    "text_placeholder": "Click to edit…",
+    "text_hint": "Double‑click to edit, drag to move",
+    "note_placeholder": "Type your note…",
+    "drop_zone_title": "Drop your file here",
+    "drop_zone_subtitle": "Release to start (PDF or Markdown)"
+  },
+  "search": {
+    "title": "PDF Search",
+    "subtitle": "Search for PDF documents…",
+    "results": "Search Results",
+    "open_in_leedpdf": "Open in LeedPDF",
+    "no_results": "No PDFs found",
+    "try_diff_keywords": "Try different keywords."
+  },
+  "features": {
+    "title": "LeedPDF Features",
+    "drawing": "Drawing & Annotation",
+    "shapes": "Shapes & Arrows",
+    "notes": "Notes",
+    "templates": "Templates",
+    "pdf_search": "PDF Search",
+    "markdown": "Markdown Support"
+  },
+  "downloads": {
+    "title": "Download LeedPDF",
+    "windows": "Windows",
+    "mac": "Mac",
+    "linux": "Linux",
+    "desktop_benefits": "Better performance and offline access"
+  },
+  "privacy": {
+    "title": "Privacy Policy"
+  },
+  "license": {
+    "activate_title": "Activate License Key",
+    "required": "License key required",
+    "welcome": "Welcome to LeedPDF! Please enter your license key…",
+    "cancel": "Cancel",
+    "activate": "Activate",
+    "validate": "Validate"
+  },
+  "updates": {
+    "checking": "Checking for updates…",
+    "available": "Update Available!",
+    "downloading": "Downloading Update…",
+    "complete": "Update Complete!",
+    "failed": "Update Failed",
+    "restarting": "Restarting application…"
+  },
+  "cookie": {
+    "title": "Your Privacy Matters",
+    "accept": "Accept Cookies",
+    "decline": "Decline Cookies",
+    "learn_more": "Learn more"
+  },
+  "seo": {
+    "default_title": "LeedPDF — Free PDF Annotation Tool",
+    "default_desc": "Write, highlight, and share PDFs easily with LeedPDF.",
+    "keywords": "PDF, annotate, draw, highlight, Markdown"
+  },
+  "footer": {
+    "made_by": "Made by {name}"
+  },
+  "misc": {
+    "open": "Open",
+    "close": "Close",
+    "cancel": "Cancel",
+    "save": "Save",
+    "search": "Search"
+  }
+  ,
+     "navigator": {
+    "page": "Page",
+    "of": "of",
+    "go_to": "Go to page",
+    "prev": "Previous page",
+    "next": "Next page",
+    "zoom_in": "Zoom in",
+    "zoom_out": "Zoom out",
+    "reset_zoom": "Reset zoom",
+    "label": "Page navigator",
+    "pages": "pages",
+    "click_to_jump": "Click to jump",
+    "pages_count": "{count} pages"
+  
+  },
+  "toast": {
+  "file_uploaded_title": "Upload successful",
+  "file_uploaded": "File uploaded successfully",
+  "file_uploaded_msg": "{{name}} ({{size}}) is ready for processing",
+    "upload_failed": "Upload failed",
+    "unsupported_file": "Unsupported file type"
+  ,
+
+  "quota_exceeded_title": "Quota Exceeded",
+  "quota_exceeded_msg": "Not enough storage space available. Please free up browser storage or use smaller files.",
+
+  "file_too_large_title": "File Too Large",
+  "file_too_large_msg": "This file exceeds the maximum allowed size.",
+
+  "large_file_title": "Large File",
+
+  "limited_storage_title": "Limited Storage",
+  "limited_storage_msg": "{{name}} stored temporarily. File will be lost when the tab is closed.",
+
+  "storage_failed_title": "Storage Failed",
+  "temp_store_failed_msg": "Could not store file temporarily. Please try again.",
+  "storage_failed_msg": "Could not store file. Please try again.",
+
+  "storage_full_title": "Storage Full",
+  "storage_full_msg": "Not enough storage space available. Please free up browser storage or use smaller files."
+}
+
+
+
+}

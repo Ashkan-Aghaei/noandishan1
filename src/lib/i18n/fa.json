@@ -1,0 +1,186 @@
+{
+  "app": {
+    "name": "LeedPDF",
+    "tagline": "تخته هوش مصنوعی نواندیشان",
+    "title": "لیـدپی‌دی‌اف — نوشتن و حاشیه‌نویسی روی PDF"
+  },
+  "nav": {
+    "home": "خانه",
+    "features": "ویژگی‌ها",
+    "help": "راهنما",
+    "use_cases": "موارد استفاده",
+    "downloads": "دانلودها",
+    "privacy": "حریم خصوصی",
+    "search": "جستجوی PDF"
+  },
+  "home": {
+    "hero_title": "تخته هوش مصنوعی نواندیشان",
+    "choose_file": "انتخاب PDF یا MD",
+    "open_url": "باز کردن از آدرس (URL)",
+    "start_fresh": "شروع از صفحه خالی",
+    "browse_templates": "مرور قالب‌ها",
+    "search_pdfs": "جستجوی PDFها",
+    "ext_install": "نصب افزونهٔ LeedPDF برای کروم",
+    "ext_autopen": "هر فایل PDF آنلاین را خودکار در LeedPDF باز کن"
+  },
+  "toolbar": {
+     "home": "رفتن به صفحهٔ اصلی",
+    "upload": "بارگذاری PDF",
+    "prev_page": "صفحهٔ قبل",
+    "next_page": "صفحهٔ بعد",
+    "zoom_out": "کوچک‌نمایی",
+    "zoom_in": "بزرگ‌نمایی",
+    "reset_zoom": "بازنشانی بزرگ‌نمایی",
+    "reset": "بازنشانی",
+    "fit_width": "انطباق با عرض",
+    "fit_width_short": "افقی",
+    "fit_height": "انطباق با ارتفاع",
+    "fit_height_short": "عمودی",
+
+    "hand": "جابجایی (دست)",
+    "pencil": "مداد (۱)",
+    "eraser": "پاک‌کن (۲)",
+    "text": "متن (۳)",
+    "arrow": "پیکان (۴)",
+    "highlighter": "هایلایتر (۸)",
+    "sticky_note": "یادداشت چسبان (۹)",
+    "stamps": "مهر/استیکرها",
+    "thumbnails": "تصاویر بندانگشتی صفحات (T)",
+     "confirm_delete_all": "همهٔ ترسیم‌های این صفحه حذف شوند؟ این عمل قابل بازگشت نیست."
+    ,"color": "رنگ ترسیم",
+    "choose_color": "انتخاب رنگ ترسیم",
+    "select_color": "انتخاب رنگ",
+    "brush_size": "اندازهٔ قلم",
+    "choose_line_thickness": "انتخاب ضخامت خط",
+    "line_width": "ضخامت خط",
+    "eraser_size": "اندازهٔ پاک‌کن",
+    "choose_eraser_size": "انتخاب اندازهٔ پاک‌کن",
+    "eraser_size_with": "اندازهٔ پاک‌کن",
+
+    "search": "جست‌وجوی اسناد PDF",
+    "delete_all": "حذف تمام تغییرات",
+    "export_pdf": "خروجی گرفتن PDF حاشیه‌نویسی‌شده",
+    "toggle_theme": "تغییر حالت روشن/تاریک",
+    "current_tool": "ابزار فعلی",
+    "open_other_file": "باز کردن فایل دیگر",
+    "light_mode": "حالت روشن",
+    "dark_mode": "حالت تاریک",
+    "view_github": "مشاهده در گیت‌هاب",
+
+    "fit_height_short_alt": "ارتفاع", 
+    "fit_width_short_alt": "افقی"
+  },
+  "overlays": {
+    "text_placeholder": "برای ویرایش کلیک کنید…",
+    "text_hint": "برای ویرایش دوبار کلیک، برای جابه‌جایی بکشید",
+    "note_placeholder": "یادداشت خود را بنویسید…",
+    "drop_zone_title": "فایل خود را اینجا رها کنید",
+    "drop_zone_subtitle": "برای شروع رها کنید (PDF یا Markdown)"
+  },
+  "search": {
+    "title": "جستجوی PDF",
+    "subtitle": "جستجو میان اسناد PDF…",
+    "results": "نتایج جستجو",
+    "open_in_leedpdf": "باز کردن در LeedPDF",
+    "no_results": "هیچ PDFی پیدا نشد",
+    "try_diff_keywords": "کلیدواژه‌های دیگری امتحان کنید."
+  },
+  "features": {
+    "title": "ویژگی‌های LeedPDF",
+    "drawing": "رسم و حاشیه‌نویسی",
+    "shapes": "اشکال و پیکان‌ها",
+    "notes": "یادداشت‌ها",
+    "templates": "قالب‌های آماده",
+    "pdf_search": "جستجوی PDF",
+    "markdown": "پشتیبانی Markdown"
+  },
+  "downloads": {
+    "title": "دانلود LeedPDF",
+    "windows": "ویندوز",
+    "mac": "مک",
+    "linux": "لینوکس",
+    "desktop_benefits": "کارایی بهتر و دسترسی آفلاین"
+  },
+  "privacy": {
+    "title": "سیاست حریم خصوصی"
+  },
+  "license": {
+    "activate_title": "فعالسازی کلید لایسنس",
+    "required": "کلید لایسنس موردنیاز است",
+    "welcome": "به LeedPDF خوش آمدید! کلید لایسنس خود را وارد کنید…",
+    "cancel": "انصراف",
+    "activate": "فعالسازی",
+    "validate": "اعتبارسنجی"
+  },
+  "updates": {
+    "checking": "در حال بررسی به‌روزرسانی…",
+    "available": "به‌روزرسانی جدید موجود است!",
+    "downloading": "در حال دانلود به‌روزرسانی…",
+    "complete": "به‌روزرسانی انجام شد!",
+    "failed": "به‌روزرسانی ناموفق بود",
+    "restarting": "در حال راه‌اندازی مجدد…"
+  },
+  "cookie": {
+    "title": "حریم خصوصی شما مهم است",
+    "accept": "پذیرفتن کوکی‌ها",
+    "decline": "رد کردن کوکی‌ها",
+    "learn_more": "اطلاعات بیشتر"
+  },
+  "seo": {
+    "default_title": "تخته هوش مصنوعی نواندیشان",
+    "default_desc": "با LeedPDF فایل‌های PDF را به‌سادگی بنویسید، هایلایت کنید و به اشتراک بگذارید.",
+    "keywords": "PDF, حاشیه‌نویسی, ترسیم, هایلایت, Markdown"
+  },
+  "footer": {
+    "made_by": "ساخته‌شده توسط {name}"
+  },
+  "misc": {
+    "open": "باز کردن",
+    "close": "بستن",
+    "cancel": "انصراف",
+    "save": "ذخیره",
+    "search": "جستجو"
+  },
+  "toast": {
+    "file_uploaded": "فایل با موفقیت بارگذاری شد",
+    "upload_failed": "خطا در بارگذاری فایل",
+    "unsupported_file": "نوع فایل پشتیبانی نمی‌شود",
+
+    "file_uploaded_title": "آپلود موفق",
+  "file_uploaded_msg": " آمادهٔ پردازش است",
+
+ 
+  "quota_exceeded_title": "سهمیه پر شد",
+  "quota_exceeded_msg": "فضای ذخیره‌سازی کافی نیست. لطفاً فضای مرورگر را خالی کنید یا فایل کوچک‌تری انتخاب کنید.",
+
+  "file_too_large_title": "فایل خیلی بزرگ است",
+  "file_too_large_msg": "اندازهٔ این فایل بیشتر از محدودیت مجاز است.",
+
+  "large_file_title": "فایل حجیم",
+
+  "limited_storage_title": "فضای محدود",
+  "limited_storage_msg": "{{name}} به‌صورت موقت ذخیره شد و با بستن تب از بین می‌رود.",
+
+  "storage_failed_title": "خطای ذخیره‌سازی",
+  "temp_store_failed_msg": "ذخیره‌سازی موقت انجام نشد. لطفاً دوباره تلاش کنید.",
+  "storage_failed_msg": "امکان ذخیرهٔ فایل نبود. لطفاً دوباره تلاش کنید.",
+
+  "storage_full_title": "فضا پر است",
+  "storage_full_msg": "فضای ذخیره‌سازی کافی نیست. لطفاً مقداری فضا خالی کنید یا فایل کوچک‌تری انتخاب کنید."
+
+  }, "navigator": {
+    "page": "صفحه",
+    "of": "از",
+    "go_to": "برو به صفحه",
+    "prev": "صفحه قبل",
+    "next": "صفحه بعد",
+    "zoom_in": "بزرگ‌نمایی",
+    "zoom_out": "کوچک‌نمایی",
+    "reset_zoom": "بازنشانی بزرگ‌نمایی",
+    "label": "راهنمای صفحات",
+    "pages": "صفحه",
+    "click_to_jump": "برای رفتن کلیک کنید"
+ , "pages_count": "{count} صفحه"
+  }
+
+}
